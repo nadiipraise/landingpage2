@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-bely-display: "Bely Display";
+  --font-proxima-nova: "Proxima Nova";
+  --font-novel-mono-pro: "Novel Mono Pro";
+  --font-futura-round-demi: "Futura Round Demi";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --black: #303031;
+  --green: #71a894;
+  --white: #fff;
+  --light-gold: #f3f0ea;
+  --gray: #66645e;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-9xs: 4px;
+  --gap-21xl: 40px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-base: 16px;
+  --br-21xl: 40px;
+  --br-12xs: 1px;
+  --br-81xl: 100px;
+
+  /* Effects */
+  --card-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
